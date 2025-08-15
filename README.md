@@ -1,6 +1,9 @@
 # VISION-Video-Inpainting-for-Seamless-Instant-Object-Removal-and-Background-Reconstruction
 
-This repository provides a solution for masking out specific objects in a video based on a text prompt and then inpainting the masked regions. It leverages Detectron2 for object detection and segmentation, CLIP for image-text similarity, and a random walks algorithm for inpainting.
+This repository provides a solution for masking out specific objects in a video based on a text prompt and then inpainting the masked regions. It leverages Detectron2 for object detection and segmentation, CLIP for image-text similarity, and a random walks algorithm for inpainting. 
+
+PUBLICATION LINK:- [IEEE](https://ieeexplore.ieee.org/document/11081337 "VISION-Video-Inpainting-for-Seamless-Instant-Object-Removal-and-Background-Reconstruction")
+
 
 ## Setup
 
